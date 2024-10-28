@@ -1,4 +1,4 @@
-import profilePic from "../assets/imgLogo.webp.jpg";
+import profilePic from "../assets/umar.jpg";
 import { motion } from "framer-motion";
 
 const Hero = () => {
