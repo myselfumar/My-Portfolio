@@ -1,4 +1,4 @@
-import imgLogo from '../assets/imgLogo.jpg';
+import imgLogo from '../assets/imgLogo.JPG';
 
 import { motion } from "framer-motion";
 
