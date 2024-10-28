@@ -1,4 +1,5 @@
-import profilePic from "../assets/umar.jpg";
+import imgLogo from '../assets/imgLogo.jpg';
+
 import { motion } from "framer-motion";
 
 const Hero = () => {
@@ -19,7 +20,7 @@ const Hero = () => {
         <div className="w-full lg:w-1/2">
           <div className="flex justify-center lg:p-8">
             <motion.img
-              src={profilePic}
+              src={imgLogo}
               alt="Muhammad Umar"
               className="border border-stone-800 rounded-4xl"
               variants={imageVariants}
